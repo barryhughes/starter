@@ -1,0 +1,1 @@
+"use strict";console.log("First of all"),console.log("Last of all");
